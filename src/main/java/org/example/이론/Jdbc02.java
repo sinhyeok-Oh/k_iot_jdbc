@@ -73,7 +73,7 @@ package org.example.이론;
 *           rs.close();
 *           pstmt.close();
 *           conn.close();
-*           >> 메모리 누수 방지 (모든 자원 해제) 
+*           >> 메모리 누수 방지 (모든 자원 해제)
 * */
 
 public class Jdbc02 {
